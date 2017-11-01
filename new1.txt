@@ -1,6 +1,11 @@
 aaabbb
 demobranch{
+<<<<<<< HEAD
 	masternew
+=======
+	new function
+>>>>>>> demobranch
 	112233;
 return
+
 }
